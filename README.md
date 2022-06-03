@@ -1,4 +1,4 @@
-#Desktop Facebook
+# Desktop Facebook
 
 ### Main Purpose:
 
@@ -11,7 +11,8 @@ creation of new features that do not exist on Facebook and use of Design Pattern
 * Who Watch My Profile Feature
   - This feature gives the user the option to see who viewed him in the profile, By clicking a button: "Fetch Watch My Profile"
   - It will display a list of users who viewed the user's Facebook profile in the format: 
-    first name, last name, date, time of viewing, yes / no - indicating whether the user who viewed the profile is on the friends list.
+    first name, last name, date, time of viewing, 
+    yes / no - indicating whether the user who viewed the profile is on the friends list.
 
 * Activity Friends Profile Feature
   - This feature gives the user the option to see the activity of friends on Facebook, by selecting the member and clicking on the button: "friend activity"
@@ -28,7 +29,7 @@ creation of new features that do not exist on Facebook and use of Design Pattern
   - Proxy.
   - Façade.
 
- * Behavioral Patterns:
+* Behavioral Patterns:
   - Strategy.
   - Observer.
   - Iterator.
